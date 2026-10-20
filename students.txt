@@ -2,3 +2,5 @@ DANH SACH SINH VIEN
 ID: 1 | Nguyen Van A | Tuoi: 20 | Nganh: Computer Science | GPA: 3.4
 ID: 2 | Tran Thi B | Tuoi: 21 | Nganh: Data Science | GPA: 3.8
 ID: 3 | Le Van C | Tuoi: 22 | Nganh: Information Technology | GPA: 3.1
+ID: 4 | Pham Minh D | Tuoi: 20 | Nganh: Data Science | GPA: 3.6
+ID: 5 | Vu Hai Yen | Tuoi: 21 | Nganh: Computer Science | GPA: 3.9
